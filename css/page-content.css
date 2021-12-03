@@ -9,6 +9,9 @@
     font-size: 3vh;
     font-family: 'Roboto Slab', serif;
 }
+.text-box p a{
+    color: #3F4EA3;
+}
 .picture{
     border-left: .5vw solid #D6B96B;
     max-height: 50vh;
